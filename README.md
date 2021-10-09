@@ -17,3 +17,10 @@ Bright, J.A. and Rayfield, E.J. (2011), The Response of Cranial Biomechanical Fi
 Bright, J.A. and Gröning, F. (2011), Strain accommodation in the zygomatic arch of the pig: A validation study using digital speckle pattern interferometry and finite element analysis. J. Morphol., 272: 1388-1398. https://doi.org/10.1002/jmor.10991
 
 Bright J.A. (2012) The Importance of Craniofacial Sutures in Biomechanical Finite Element Models of the Domestic Pig. PLoS ONE 7(2): e31769. https://doi.org/10.1371/journal.pone.0031769
+
+
+# New Tips and Tricks not included in guide:
+
+- To get coordinates of nodes, select them by nodes: by ID (if you don't know IDs of constraints etc, can export nastran file of model, open in text editor, and get coords)
+- Save this .tcl script (https://www.eng-tips.com/viewthread.cfm?qid=287667)
+- Follow the instructions here, using the .tcl script you saved above (https://www.youtube.com/watch?v=5pcMz58CHEM&ab_channel=HyperworksTclmacros)
